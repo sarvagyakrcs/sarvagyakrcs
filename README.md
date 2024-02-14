@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagyakrcs&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagyakrcs" /> </p>
 
-- 🔭 I’m currently working on [RV Connect Backend](https://github.com/sarvagyakrcs/RV_Connect)
-
 - 🌱 I’m currently learning **React, Next Js**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sarvagyakrcs](https://github.com/sarvagyakrcs)
