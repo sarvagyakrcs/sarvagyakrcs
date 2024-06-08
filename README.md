@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sarvagyakrcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sarvagyakrcs" height="30" width="40" /></a>
+<a href="https://twitter.com/sarvagyakrcs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg(https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023_original.svg)" alt="sarvagyakrcs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kumarsarvagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kumarsarvagya" height="30" width="40" /></a>
 <a href="https://instagram.com/kumar_sarvagya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumar_sarvagya" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sarvagyakumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sarvagyakumar" height="30" width="40" /></a>
