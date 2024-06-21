@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sarvagya Kumar</h1>
-<a src="https://www.sarvagya.live/"><h1>My Website</h1></a>
+<a href="https://www.sarvagya.live/"><h3>My Website</h3></a>
 <h3 align="center">Passionate Full Stack Developer 🚀 | Specialised in creating seamless, user-centric applications with a robust skill set 🛠️. Proven track record in API development, MySQL integration, and proficiency in Django, Flask, and React frameworks. 💻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagyakrcs&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagyakrcs" /> </p>
