@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/sarvagyakrcs" target="blank"><img src="https://img.shields.io/twitter/follow/sarvagyakrcs?logo=twitter&style=for-the-badge" alt="sarvagyakrcs" /></a> </p>
 
-- 🔭 I’m currently working on **NetConnect**
+- 🔭 I’m currently working on **AI Agents**
 
-- 🌱 I’m currently learning **Langchain**
+- 🌱 I’m currently learning **Langchain**, **AI Agents**
 
 - 👯 I’m looking to collaborate on **Langchain and Vector Databases**
 
