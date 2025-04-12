@@ -9,76 +9,49 @@
 
 <br/>
 
-\`\`\`markdown
+```
 > Full Stack Engineering | AI Architecture | NLP Systems  
 > Architect of autonomous digital ecosystems and intelligent interfaces.
-\`\`\`
+```
 
 <!-- EXPERIENCE SECTION -->
 ## ⟨ EXPERIENCE ⟩
 
-\`\`\`
+  ```
 SOFTWARE DEVELOPMENT ENGINEER | FREELANCE
 [08.2024 - PRESENT]
 
 ▶ Engineered NLP pipelines for sentiment analysis and context-aware systems
 ▶ Delivered high-precision solutions across diverse technical domains
 ▶ Consistent 5-star performance across client engagements
-\`\`\`
+```
 
-\`\`\`
+```
 SOFTWARE DEVELOPMENT INTERN | IWST BANGALORE
 [01.2024 - 03.2025]
 
 ▶ Designed microservices architecture for research automation 
 ▶ Implemented Flask & Next.js solutions with native server deployment
 ▶ Established automated CI/CD infrastructure for seamless integration
-\`\`\`
-
-<!-- PROJECTS SECTION -->
-## ⟨ SYSTEMS ⟩
-
-\`\`\`
-GIT YOUR CODE
-[01.2024 - PRESENT]
-
-▶ Advanced RAG architecture for semantic repository analysis
-▶ Neural embedding integration for deep code comprehension
-\`\`\`
-
-\`\`\`
-VIRTUAL COMPANION
-[DATA REDACTED]
-
-▶ Dual-stage emotion prediction system with multi-modal analysis
-▶ LLM integration for contextually-aware response generation
-\`\`\`
-
-\`\`\`
-YOUDEMY
-[10.2024 - PRESENT]
-
-▶ YouTube course transformation through autonomous agents
-▶ Predictive question systems leveraging historical data patterns
-\`\`\`
+```
 
 <!-- TECHNICAL STACK -->
 ## ⟨ TECHNICAL SPECTRUM ⟩
 
-\`\`\`
+```
 ENGINEERING: Python | JavaScript | Java | C++ | React | Next.js | Node.js
 INTELLIGENCE: Machine Learning | NLP | RAG Systems | Agentic AI
 INFRASTRUCTURE: Docker | MySQL | SQL | Linux | Git
-\`\`\`
+```
 
 <!-- CONTACT SECTION -->
 ## ⟨ ACCESS ⟩
 
-\`\`\`
+```
 EMAIL: sarvagyakrcs@gmail.com
 LINKEDIN: linkedin.com/in/kumarsarvagya
 PORTFOLIO: thesarvagyakumar.site
-\`\`\`
+```
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvagyakrcs&theme=dark&hide_border=true" alt="GitHub Stats" />
