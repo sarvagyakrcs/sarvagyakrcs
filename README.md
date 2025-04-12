@@ -1,50 +1,89 @@
-<h1 align="center">Hi 👋, I'm Sarvagya Kumar</h1>
-<a href="https://www.thesarvagyakumar.site/">My Website</a>
-<h3 align="center">
-🚀 Full Stack Developer | AI & NLP Enthusiast | Engineer  
-Specialized in building scalable, user-centric applications with expertise in API development, microservices, NLP, and AI-driven automation.
-</h3>
+<!-- TERMINAL STYLE HEADER -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=6E6E6E&center=true&vCenter=true&width=435&lines=%7B+SARVAGYA+KUMAR+%7D" alt="Sarvagya Kumar" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarvagyakrcs&label=Profile%20views&color=0e75b6&style=flat" alt="sarvagyakrcs" /> </p>
+<div align="center">
+  <a href="https://www.thesarvagyakumar.site/" style="color:#8E8E8E;text-decoration:none;font-family:monospace;">[ENTER THE VOID]</a>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarvagyakrcs" alt="sarvagyakrcs" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/sarvagyakrcs" target="blank"><img src="https://img.shields.io/twitter/follow/sarvagyakrcs?logo=twitter&style=for-the-badge" alt="sarvagyakrcs" /></a> </p>
+\`\`\`markdown
+> Full Stack Engineering | AI Architecture | NLP Systems  
+> Architect of autonomous digital ecosystems and intelligent interfaces.
+\`\`\`
 
-## 🏗️ Experience  
+<!-- EXPERIENCE SECTION -->
+## ⟨ EXPERIENCE ⟩
 
-### 💻 Freelance Software Developer - Fiverr (Aug 2024 - Present)  
-- Developed **NLP pipelines** for sentiment analysis, text summarization, and chatbot solutions using **Python & Hugging Face**.  
-- Consistently achieved **5-star ratings** across 4+ projects, recognized for timely delivery and technical excellence.  
+\`\`\`
+SOFTWARE DEVELOPMENT ENGINEER | FREELANCE
+[08.2024 - PRESENT]
 
-### 🏢 Software Development Intern - IWST, Bangalore (Jan 2024 - March 2025)  
-- Designed & implemented a **microservices architecture** using **Flask & Next.js** to automate forestry research workflows.  
-- Deployed applications on native servers, ensuring seamless integration and improved efficiency.  
-- Configured **CI/CD pipelines** for automated testing, integration, and deployment.  
+▶ Engineered NLP pipelines for sentiment analysis and context-aware systems
+▶ Delivered high-precision solutions across diverse technical domains
+▶ Consistent 5-star performance across client engagements
+\`\`\`
 
-### 🔍 Git Your Code (Jan 2024 - Present)  
-- Built a **Retrieval-Augmented Generation (RAG)** architecture for deep semantic analysis of GitHub repositories.  
-- Integrated **vector embeddings, NLP, and machine learning** to improve intelligent code comprehension and search capabilities.  
+\`\`\`
+SOFTWARE DEVELOPMENT INTERN | IWST BANGALORE
+[01.2024 - 03.2025]
 
-### 🤖 Virtual Companion Chatbot  
-- Developed a **dual-stage emotion prediction system** analyzing text and audio for multi-modal emotion recognition.  
-- Integrated emotional profiles into a **Large Language Model (LLM)** for contextually aware and empathetic responses.  
+▶ Designed microservices architecture for research automation 
+▶ Implemented Flask & Next.js solutions with native server deployment
+▶ Established automated CI/CD infrastructure for seamless integration
+\`\`\`
 
-### 📚 Youdemy (Oct 2024 - Present)  
-- Built a platform that **transforms YouTube courses into structured Udemy-style modules** using autonomous agents and RAG-based LLMs.  
-- Developed a **question prediction system** leveraging historical exam data to enhance targeted study.  
+<!-- PROJECTS SECTION -->
+## ⟨ SYSTEMS ⟩
 
-## 🔭 Currently Working On  
-- **AI Agents & Autonomous Systems**  
-- **LangChain & Vector Databases**  
+\`\`\`
+GIT YOUR CODE
+[01.2024 - PRESENT]
 
-## 🌱 Learning  
-- **Advanced Retrieval-Augmented Generation (RAG)**  
-- **AI-powered automation & LLM-based search systems**  
+▶ Advanced RAG architecture for semantic repository analysis
+▶ Neural embedding integration for deep code comprehension
+\`\`\`
 
-## 📫 How to Reach Me  
-- **Email:** sarvagyakrcs@gmail.com  
-- **LinkedIn:** [linkedin.com/in/kumarsarvagya](https://www.linkedin.com/in/kumarsarvagya/)  
-= **Website:** [CLICK ME](https://thesarvagyakumar.site)
+\`\`\`
+VIRTUAL COMPANION
+[DATA REDACTED]
 
-🚀 **Always open to collaborating on innovative projects in AI, full-stack development, and automation!**
+▶ Dual-stage emotion prediction system with multi-modal analysis
+▶ LLM integration for contextually-aware response generation
+\`\`\`
+
+\`\`\`
+YOUDEMY
+[10.2024 - PRESENT]
+
+▶ YouTube course transformation through autonomous agents
+▶ Predictive question systems leveraging historical data patterns
+\`\`\`
+
+<!-- TECHNICAL STACK -->
+## ⟨ TECHNICAL SPECTRUM ⟩
+
+\`\`\`
+ENGINEERING: Python | JavaScript | Java | C++ | React | Next.js | Node.js
+INTELLIGENCE: Machine Learning | NLP | RAG Systems | Agentic AI
+INFRASTRUCTURE: Docker | MySQL | SQL | Linux | Git
+\`\`\`
+
+<!-- CONTACT SECTION -->
+## ⟨ ACCESS ⟩
+
+\`\`\`
+EMAIL: sarvagyakrcs@gmail.com
+LINKEDIN: linkedin.com/in/kumarsarvagya
+PORTFOLIO: thesarvagyakumar.site
+\`\`\`
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvagyakrcs&theme=dark&hide_border=true" alt="GitHub Stats" />
+</div>
+
+<div align="center">
+  <p style="color:#4E4E4E;font-family:monospace;font-size:12px;">WATCHING FROM THE SHADOWS • BUILDING IN THE DARKNESS</p>
+</div>
