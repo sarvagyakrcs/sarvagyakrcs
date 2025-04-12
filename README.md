@@ -1,6 +1,6 @@
 <!-- TERMINAL STYLE HEADER -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=6E6E6E&center=true&vCenter=true&width=435&lines=%7B+SARVAGYA+KUMAR+%7D" alt="Sarvagya Kumar" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=6E6E6E&center=true&vCenter=true&width=435&lines=%7B+SARVAGYA+KUMAR+%7D" alt="The Sarvagya" />
 </div>
 
 <div align="center">
