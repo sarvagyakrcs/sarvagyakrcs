@@ -1,62 +1,52 @@
-<!-- TERMINAL STYLE HEADER -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=40&duration=3000&color=6E6E6E&center=true&vCenter=true&width=435&lines=%7B+THE+SARVAGYA+KUMAR+%7D" alt="The Sarvagya" />
-</div>
+# Sarvagya Kumar
+
+**Software Engineer** • Agentic AI Systems
+
+[Website](https://www.thesarvagyakumar.site/) • [Email](mailto:sarvagyakrcs@gmail.com) • [LinkedIn](https://linkedin.com/in/kumarsarvagya)
+
+---
+
+## About
+
+Software engineer building intelligent systems and autonomous agents. I focus on LLM-powered applications, agent architectures, and production software. Interested in multi-agent coordination, reasoning systems, and tool-use patterns.
+
+---
+
+## Experience
+
+**Software Development Engineer** | Freelance  
+*August 2024 - Present*
+
+- Build production agentic AI systems with multi-step reasoning and tool integration
+- Design NLP pipelines for sentiment analysis and contextual understanding
+- Deliver end-to-end solutions across web applications, automation, and AI systems
+- Maintained 5-star client satisfaction across all engagements
+
+**Software Development Intern** | IWST Bangalore  
+*January 2024 - March 2025*
+
+- Architected microservices for research automation workflows
+- Built applications using Flask, Next.js, and TypeScript
+- Implemented CI/CD pipelines for automated testing and deployment
+- Deployed and managed production systems
+
+---
+
+## Technical Stack
+
+**Languages & Frameworks**  
+Python • TypeScript • JavaScript • Java • React • Next.js • Node.js
+
+**AI & Agents**  
+LLM Integration • RAG Systems • Agentic Architectures • NLP • Machine Learning
+
+**Infrastructure**  
+Docker • PostgreSQL • MySQL • Linux • Git • CI/CD
+
+---
 
 <div align="center">
-  <a href="https://www.thesarvagyakumar.site/" style="color:#8E8E8E;text-decoration:none;font-family:monospace;">[ENTER THE VOID]</a>
-</div>
+  
+![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=sarvagyakrcs&theme=dark&hide_border=true)
 
-<br/>
-
-```
-> Full Stack Engineering | AI Architecture | NLP Systems  
-> Architect of autonomous digital ecosystems and intelligent interfaces.
-```
-
-<!-- EXPERIENCE SECTION -->
-## ⟨ EXPERIENCE ⟩
-
-  ```
-SOFTWARE DEVELOPMENT ENGINEER | FREELANCE
-[08.2024 - PRESENT]
-
-▶ Engineered NLP pipelines for sentiment analysis and context-aware systems
-▶ Delivered high-precision solutions across diverse technical domains
-▶ Consistent 5-star performance across client engagements
-```
-
-```
-SOFTWARE DEVELOPMENT INTERN | IWST BANGALORE
-[01.2024 - 03.2025]
-
-▶ Designed microservices architecture for research automation 
-▶ Implemented Flask & Next.js solutions with native server deployment
-▶ Established automated CI/CD infrastructure for seamless integration
-```
-
-<!-- TECHNICAL STACK -->
-## ⟨ TECHNICAL SPECTRUM ⟩
-
-```
-ENGINEERING: Python | JavaScript | Java | C++ | React | Next.js | Node.js
-INTELLIGENCE: Machine Learning | NLP | RAG Systems | Agentic AI
-INFRASTRUCTURE: Docker | MySQL | SQL | Linux | Git
-```
-
-<!-- CONTACT SECTION -->
-## ⟨ ACCESS ⟩
-
-```
-EMAIL: sarvagyakrcs@gmail.com
-LINKEDIN: linkedin.com/in/kumarsarvagya
-PORTFOLIO: thesarvagyakumar.site
-```
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarvagyakrcs&theme=dark&hide_border=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <p style="color:#4E4E4E;font-family:monospace;font-size:12px;">WATCHING FROM THE SHADOWS • BUILDING IN THE DARKNESS</p>
 </div>
